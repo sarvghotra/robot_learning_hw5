@@ -1,0 +1,27 @@
+[2024-04-13 01:22:58,033][absl][INFO] - Butterworth filter: joint: 0, lowcut: 0.000000, highcut: 3.000000, sampling rate: 100, order: 1, num joints: 16
+[2024-04-13 01:22:58,033][absl][INFO] - Filter shapes: a: (16, 2), b: (16, 2)
+[2024-04-13 01:22:58,034][absl][INFO] - Filter type:lowpass
+[2024-04-13 01:22:58,102][absl][INFO] - Butterworth filter: joint: 0, lowcut: 0.000000, highcut: 3.000000, sampling rate: 100, order: 1, num joints: 16
+[2024-04-13 01:22:58,102][absl][INFO] - Filter shapes: a: (16, 2), b: (16, 2)
+[2024-04-13 01:22:58,103][absl][INFO] - Filter type:lowpass
+[2024-04-13 01:22:58,111][absl][INFO] - Butterworth filter: joint: 0, lowcut: 0.000000, highcut: 3.000000, sampling rate: 100, order: 1, num joints: 16
+[2024-04-13 01:22:58,111][absl][INFO] - Filter shapes: a: (16, 2), b: (16, 2)
+[2024-04-13 01:22:58,112][absl][INFO] - Filter type:lowpass
+[2024-04-13 01:22:58,119][absl][INFO] - Butterworth filter: joint: 0, lowcut: 0.000000, highcut: 3.000000, sampling rate: 100, order: 1, num joints: 16
+[2024-04-13 01:22:58,119][absl][INFO] - Filter shapes: a: (16, 2), b: (16, 2)
+[2024-04-13 01:22:58,119][absl][INFO] - Filter type:lowpass
+[2024-04-13 01:22:58,125][absl][INFO] - Butterworth filter: joint: 0, lowcut: 0.000000, highcut: 3.000000, sampling rate: 100, order: 1, num joints: 16
+[2024-04-13 01:22:58,126][absl][INFO] - Filter shapes: a: (16, 2), b: (16, 2)
+[2024-04-13 01:22:58,126][absl][INFO] - Filter type:lowpass
+[2024-04-13 01:22:58,164][absl][INFO] - Butterworth filter: joint: 0, lowcut: 0.000000, highcut: 3.000000, sampling rate: 100, order: 1, num joints: 16
+[2024-04-13 01:22:58,164][absl][INFO] - Filter shapes: a: (16, 2), b: (16, 2)
+[2024-04-13 01:22:58,165][absl][INFO] - Filter type:lowpass
+[2024-04-13 01:22:58,169][absl][INFO] - Butterworth filter: joint: 0, lowcut: 0.000000, highcut: 3.000000, sampling rate: 100, order: 1, num joints: 16
+[2024-04-13 01:22:58,170][absl][INFO] - Filter shapes: a: (16, 2), b: (16, 2)
+[2024-04-13 01:22:58,170][absl][INFO] - Filter type:lowpass
+[2024-04-13 01:22:58,173][absl][INFO] - Butterworth filter: joint: 0, lowcut: 0.000000, highcut: 3.000000, sampling rate: 100, order: 1, num joints: 16
+[2024-04-13 01:22:58,173][absl][INFO] - Butterworth filter: joint: 0, lowcut: 0.000000, highcut: 3.000000, sampling rate: 100, order: 1, num joints: 16
+[2024-04-13 01:22:58,174][absl][INFO] - Filter shapes: a: (16, 2), b: (16, 2)
+[2024-04-13 01:22:58,174][absl][INFO] - Filter type:lowpass
+[2024-04-13 01:22:58,174][absl][INFO] - Filter shapes: a: (16, 2), b: (16, 2)
+[2024-04-13 01:22:58,174][absl][INFO] - Filter type:lowpass

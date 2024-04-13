@@ -1,0 +1,3 @@
+- sim2real.gaussian_obs_scale=0.1
+- sim2real.gaussian_act_scale=0.1
+- meta.add_to_runname=Q3g0.1

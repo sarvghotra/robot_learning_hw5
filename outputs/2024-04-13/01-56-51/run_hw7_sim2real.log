@@ -1,0 +1,33 @@
+[2024-04-13 01:56:56,929][absl][INFO] - Butterworth filter: joint: 0, lowcut: 0.000000, highcut: 3.000000, sampling rate: 100, order: 1, num joints: 16
+[2024-04-13 01:56:56,930][absl][INFO] - Filter shapes: a: (16, 2), b: (16, 2)
+[2024-04-13 01:56:56,931][absl][INFO] - Filter type:lowpass
+[2024-04-13 01:56:57,008][absl][INFO] - Butterworth filter: joint: 0, lowcut: 0.000000, highcut: 3.000000, sampling rate: 100, order: 1, num joints: 16
+[2024-04-13 01:56:57,008][absl][INFO] - Filter shapes: a: (16, 2), b: (16, 2)
+[2024-04-13 01:56:57,009][absl][INFO] - Filter type:lowpass
+[2024-04-13 01:56:57,017][absl][INFO] - Butterworth filter: joint: 0, lowcut: 0.000000, highcut: 3.000000, sampling rate: 100, order: 1, num joints: 16
+[2024-04-13 01:56:57,018][absl][INFO] - Filter shapes: a: (16, 2), b: (16, 2)
+[2024-04-13 01:56:57,018][absl][INFO] - Filter type:lowpass
+[2024-04-13 01:56:57,031][absl][INFO] - Butterworth filter: joint: 0, lowcut: 0.000000, highcut: 3.000000, sampling rate: 100, order: 1, num joints: 16
+[2024-04-13 01:56:57,032][absl][INFO] - Filter shapes: a: (16, 2), b: (16, 2)
+[2024-04-13 01:56:57,032][absl][INFO] - Filter type:lowpass
+[2024-04-13 01:56:57,037][absl][INFO] - Butterworth filter: joint: 0, lowcut: 0.000000, highcut: 3.000000, sampling rate: 100, order: 1, num joints: 16
+[2024-04-13 01:56:57,038][absl][INFO] - Filter shapes: a: (16, 2), b: (16, 2)
+[2024-04-13 01:56:57,038][absl][INFO] - Filter type:lowpass
+[2024-04-13 01:56:57,039][absl][INFO] - Butterworth filter: joint: 0, lowcut: 0.000000, highcut: 3.000000, sampling rate: 100, order: 1, num joints: 16
+[2024-04-13 01:56:57,039][absl][INFO] - Filter shapes: a: (16, 2), b: (16, 2)
+[2024-04-13 01:56:57,039][absl][INFO] - Filter type:lowpass
+[2024-04-13 01:56:57,050][absl][INFO] - Butterworth filter: joint: 0, lowcut: 0.000000, highcut: 3.000000, sampling rate: 100, order: 1, num joints: 16
+[2024-04-13 01:56:57,051][absl][INFO] - Filter shapes: a: (16, 2), b: (16, 2)
+[2024-04-13 01:56:57,051][absl][INFO] - Filter type:lowpass
+[2024-04-13 01:56:57,055][absl][INFO] - Butterworth filter: joint: 0, lowcut: 0.000000, highcut: 3.000000, sampling rate: 100, order: 1, num joints: 16
+[2024-04-13 01:56:57,056][absl][INFO] - Filter shapes: a: (16, 2), b: (16, 2)
+[2024-04-13 01:56:57,056][absl][INFO] - Filter type:lowpass
+[2024-04-13 01:56:57,071][absl][INFO] - Butterworth filter: joint: 0, lowcut: 0.000000, highcut: 3.000000, sampling rate: 100, order: 1, num joints: 16
+[2024-04-13 01:56:57,072][absl][INFO] - Filter shapes: a: (16, 2), b: (16, 2)
+[2024-04-13 01:56:57,072][absl][INFO] - Filter type:lowpass
+[2024-04-13 03:49:54,077][urllib3.connectionpool][WARNING] - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.comet.com', port=443): Read timed out. (read timeout=10)")': /clientlib/batch/logger/experiment/metric
+[2024-04-13 04:12:51,229][urllib3.connectionpool][WARNING] - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.comet.com', port=443): Read timed out. (read timeout=10)")': /clientlib/rest/v2/write/experiment/output
+[2024-04-13 04:12:52,551][urllib3.connectionpool][WARNING] - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.comet.com', port=443): Read timed out. (read timeout=10)")': /clientlib/status-report/update
+[2024-04-13 05:36:09,110][urllib3.connectionpool][WARNING] - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.comet.com', port=443): Read timed out. (read timeout=10)")': /clientlib/batch/logger/experiment/metric
+[2024-04-13 06:21:38,621][urllib3.connectionpool][WARNING] - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.comet.com', port=443): Read timed out. (read timeout=10)")': /clientlib/rest/v2/write/experiment/output
+[2024-04-13 06:21:39,789][urllib3.connectionpool][WARNING] - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.comet.com', port=443): Read timed out. (read timeout=10)")': /clientlib/status-report/update

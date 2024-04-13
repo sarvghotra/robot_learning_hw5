@@ -1,0 +1,28 @@
+[2024-04-12 18:31:16,858][absl][INFO] - Butterworth filter: joint: 0, lowcut: 0.000000, highcut: 3.000000, sampling rate: 100, order: 1, num joints: 16
+[2024-04-12 18:31:16,859][absl][INFO] - Filter shapes: a: (16, 2), b: (16, 2)
+[2024-04-12 18:31:16,859][absl][INFO] - Filter type:lowpass
+[2024-04-12 18:31:16,926][absl][INFO] - Butterworth filter: joint: 0, lowcut: 0.000000, highcut: 3.000000, sampling rate: 100, order: 1, num joints: 16
+[2024-04-12 18:31:16,926][absl][INFO] - Filter shapes: a: (16, 2), b: (16, 2)
+[2024-04-12 18:31:16,927][absl][INFO] - Filter type:lowpass
+[2024-04-12 18:31:16,934][absl][INFO] - Butterworth filter: joint: 0, lowcut: 0.000000, highcut: 3.000000, sampling rate: 100, order: 1, num joints: 16
+[2024-04-12 18:31:16,935][absl][INFO] - Filter shapes: a: (16, 2), b: (16, 2)
+[2024-04-12 18:31:16,935][absl][INFO] - Filter type:lowpass
+[2024-04-12 18:31:16,947][absl][INFO] - Butterworth filter: joint: 0, lowcut: 0.000000, highcut: 3.000000, sampling rate: 100, order: 1, num joints: 16
+[2024-04-12 18:31:16,948][absl][INFO] - Filter shapes: a: (16, 2), b: (16, 2)
+[2024-04-12 18:31:16,948][absl][INFO] - Filter type:lowpass
+[2024-04-12 18:31:16,959][absl][INFO] - Butterworth filter: joint: 0, lowcut: 0.000000, highcut: 3.000000, sampling rate: 100, order: 1, num joints: 16
+[2024-04-12 18:31:16,960][absl][INFO] - Filter shapes: a: (16, 2), b: (16, 2)
+[2024-04-12 18:31:16,960][absl][INFO] - Filter type:lowpass
+[2024-04-12 18:31:16,962][absl][INFO] - Butterworth filter: joint: 0, lowcut: 0.000000, highcut: 3.000000, sampling rate: 100, order: 1, num joints: 16
+[2024-04-12 18:31:16,962][absl][INFO] - Filter shapes: a: (16, 2), b: (16, 2)
+[2024-04-12 18:31:16,962][absl][INFO] - Filter type:lowpass
+[2024-04-12 18:31:16,967][absl][INFO] - Butterworth filter: joint: 0, lowcut: 0.000000, highcut: 3.000000, sampling rate: 100, order: 1, num joints: 16
+[2024-04-12 18:31:16,968][absl][INFO] - Filter shapes: a: (16, 2), b: (16, 2)
+[2024-04-12 18:31:16,968][absl][INFO] - Filter type:lowpass
+[2024-04-12 18:31:16,968][absl][INFO] - Butterworth filter: joint: 0, lowcut: 0.000000, highcut: 3.000000, sampling rate: 100, order: 1, num joints: 16
+[2024-04-12 18:31:16,968][absl][INFO] - Filter shapes: a: (16, 2), b: (16, 2)
+[2024-04-12 18:31:16,968][absl][INFO] - Filter type:lowpass
+[2024-04-12 18:31:16,979][absl][INFO] - Butterworth filter: joint: 0, lowcut: 0.000000, highcut: 3.000000, sampling rate: 100, order: 1, num joints: 16
+[2024-04-12 18:31:16,979][absl][INFO] - Filter shapes: a: (16, 2), b: (16, 2)
+[2024-04-12 18:31:16,980][absl][INFO] - Filter type:lowpass
+[2024-04-12 23:14:43,834][urllib3.connectionpool][WARNING] - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.comet.com', port=443): Read timed out. (read timeout=10)")': /clientlib/status-report/update

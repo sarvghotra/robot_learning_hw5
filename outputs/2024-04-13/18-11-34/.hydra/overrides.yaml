@@ -1,0 +1,4 @@
+- sim2real.history_len=4
+- sim2real.gaussian_obs_scale=1.0
+- sim2real.gaussian_act_scale=1.0
+- meta.add_to_runname=Q3g1
