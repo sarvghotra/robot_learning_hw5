@@ -1,0 +1,56 @@
+meta:
+  exp_name: puppersim
+  run_name: Puppersim-v0__puppersim__Q2.1__1__1712962761
+  seed: 1
+  torch_deterministic: true
+  cuda: true
+  track: true
+  save_model: true
+  env_id: Puppersim-v0
+  timelimit: 1000
+  sac_instead: false
+  add_to_runname: Q2.1
+ppo:
+  num_envs: 32
+  eval_frequency: 200000
+  total_timesteps: 10000000
+  learning_rate: 0.0003
+  num_steps: 2048
+  anneal_lr: true
+  gamma: 0.99
+  gae_lambda: 0.95
+  num_minibatches: 32
+  update_epochs: 10
+  norm_adv: true
+  clip_coef: 0.2
+  clip_vloss: true
+  ent_coef: 0.0
+  vf_coef: 0.5
+  max_grad_norm: 0.5
+  target_kl: None
+sac:
+  num_envs: 8
+  eval_frequency: 200000
+  total_timesteps: 1000000
+  buffer_size: 1000000.0
+  gamma: 0.99
+  tau: 0.005
+  batch_size: 256
+  learning_starts: 5000.0
+  policy_lr: 0.0003
+  q_lr: 0.001
+  policy_frequency: 2
+  target_network_frequency: 1
+  noise_clip: 0.5
+  alpha: 0.2
+  autotune: true
+batch_size: 0
+minibatch_size: 0
+num_iterations: 0
+sim2real:
+  history_len: 2
+  add_last_action: true
+  gaussian_obs_scale: 0.01
+  gaussian_act_scale: 0.01
+  action_repeat_max: 2
+  max_action_repeat_on_reset: 2
